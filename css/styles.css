@@ -1,0 +1,29 @@
+.intro  {
+    color: brown;
+}
+p.intro  {
+    color: burlywood;
+}
+title  {
+    font: 500;
+    font-size: xx-large;
+}
+h2  {
+    text-align: left;
+    color: crimson;
+}
+ol  {
+    color: darkorange;
+    text-decoration: darkslategray;
+    font-size: larger;
+}
+h3  {
+    text-align: left;
+    color: crimson;
+}
+body  {
+    background-color: yellow;
+}
+tropical  {
+    color: violet;
+}
