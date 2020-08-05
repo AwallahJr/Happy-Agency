@@ -4,9 +4,10 @@
 p.intro  {
     color: burlywood;
 }
-title  {
+.title  {
     font: 500;
     font-size: xx-large;
+    color: tomato;
 }
 h2  {
     text-align: left;
@@ -22,8 +23,11 @@ h3  {
     color: crimson;
 }
 body  {
-    background-color: yellow;
+    background-color: purple;
 }
-tropical  {
+.tropical  {
     color: violet;
+}
+.popular  {
+    color: turquoise;
 }
